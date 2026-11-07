@@ -8,7 +8,7 @@ Social Media, Sleep, and Mental Health — Machine Learning
 
 For my CIS 315 Machine Learning final project, my group analyzed a dataset containing 8,000 observations to explore relationships between social media usage, sleep, and mental health.
 
-I was responsible for most of the project's implementation, including data analysis, visualizations, and developing the Random Forest classifier. I used scikit-learn and GridSearchCV for hyperparameter tuning and evaluated the model's performance. Our Random Forest model achieved approximately 86% test accuracy.
+I was responsible for most of the project's implementation, including data analysis, visualizations, and developing the Random Forest classifier. I used scikit-learn and GridSearchCV for hyperparameter tuning and evaluated the model's performance. My teammates developed the K-nearest neighbors and logistic regression models. Our Random Forest model achieved approximately 86% test accuracy.
 
 NBA Statistics — Data Science Final Project
 
