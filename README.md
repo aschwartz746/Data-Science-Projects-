@@ -1,17 +1,42 @@
-Data Science Projects
+
+# Data Science Projects
+
 This repository contains projects I completed during my undergraduate Data Science coursework at Flagler College. My work focuses on data analysis, visualization, predictive modeling, and machine learning using Python.
-Featured Projects
-Social Media, Sleep, and Mental Health — Machine Learning
+
+## Featured Projects
+
+### 1. Social Media, Sleep, and Mental Health — Machine Learning
+
 For my CIS 315 Machine Learning final project, my group analyzed a dataset containing 8,000 observations to explore relationships between social media usage, sleep, and mental health.
 
-I was responsible for most of the project's implementation, including data analysis, visualizations, and developing the Random Forest classifier. I used scikit-learn and GridSearchCV for hyperparameter tuning and evaluated the model's performance. Our Random Forest model achieved approximately 86% test accuracy.
-NBA Statistics — Data Science Final Project
+I was responsible for most of the project's implementation, including data analysis, visualizations, and developing the Random Forest classifier. I used scikit-learn and GridSearchCV for hyperparameter tuning and evaluated the model's performance. My teammates developed the K-nearest neighbors and logistic regression models. Our Random Forest model achieved approximately **86% test accuracy**.
+
+**Key Skills:** Classification, Random Forest, hyperparameter tuning, model evaluation, data visualization.
+
+[View Machine Learning Project](CIS_315_Final_Project.ipynb)
+
+---
+
+### 2. NBA Statistics — Data Science Final Project
+
 For this independent project, I analyzed NBA statistics using Python to explore relationships between player performance variables.
 
 I created visualizations, developed linear regression and decision tree regression models, and evaluated their predictive performance.
-Tools and Technologies
-- Programming: Python
-- Libraries: pandas, NumPy, matplotlib, scikit-learn
-- Environment: Jupyter Notebook
-About Me
+
+**Key Skills:** Exploratory data analysis, regression, predictive modeling, data visualization.
+
+[View NBA Statistics Project](Data%20Science%20Final%20Project%20%28NBA%20Stats%29.ipynb)
+
+---
+
+## Tools and Technologies
+
+- **Programming Language:** Python
+- **Libraries:** pandas, NumPy, matplotlib, scikit-learn
+- **Development Environment:** Jupyter Notebook
+- **Techniques:** Classification, regression, hyperparameter tuning, model evaluation, data visualization
+
+## About Me
+
 I am a Data Science major at Flagler College with minors in Mathematics and Computer Information Systems. I am interested in continuing my education in machine learning and artificial intelligence.
+
