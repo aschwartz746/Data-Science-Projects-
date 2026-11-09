@@ -50,7 +50,7 @@ The project demonstrates how unsupervised learning can reveal patterns in data w
 
 **Key Skills:** K-Means clustering, data preprocessing, customer segmentation, exploratory analysis
 
-[View Customer Segmentation Project](HW3_Part2_Clustering.ipynb)
+[View Customer Segmentation Project](Customer_Segmentation_KMeans.ipynb)
 
 ---
 
@@ -66,7 +66,7 @@ This project helped strengthen my understanding of how preprocessing, model sele
 
 **Key Skills:** Ridge regression, Lasso regression, pipelines, feature scaling, GridSearchCV
 
-[View Regression Pipelines Project](Schwartz_Homework6.ipynb)
+[View Regression Pipelines Project](Regression_Pipelines_Model_Tuning.ipynb)
 
 ---
 
