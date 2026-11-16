@@ -34,7 +34,7 @@ This repository highlights selected projects that demonstrate my technical skill
 
 ## Featured Projects
 
-### 1. Social Media, Sleep & Mental Health
+### Social Media, Sleep & Mental Health
 
 **Python · Supervised Machine Learning · Classification · Group Project**
 
@@ -48,7 +48,7 @@ The project included **k-nearest neighbors, logistic regression, random forest, 
 
 ---
 
-### 2. NBA Statistics Analysis
+### NBA Statistics Analysis
 
 **Python · Exploratory Data Analysis · Regression · Sports Analytics**
 
@@ -62,7 +62,7 @@ The analysis also explored **regression-based prediction**, including linear reg
 
 ---
 
-### 3. Personality Traits & Substance Use
+### Personality Traits & Substance Use
 
 **R · Statistical Analysis · Data Visualization · Collaborative Project**
 
@@ -78,7 +78,7 @@ The report includes analyses of personality scores and substance-use categories,
 
 ---
 
-### 4. Customer Segmentation with K-Means
+### Customer Segmentation with K-Means
 
 **Python · Unsupervised Machine Learning · Clustering**
 
@@ -92,7 +92,7 @@ The project provided an opportunity to explore how clustering algorithms organiz
 
 ---
 
-### 5. Regression Pipelines & Model Tuning
+### Regression Pipelines & Model Tuning
 
 **Python · scikit-learn · Regularized Regression · Hyperparameter Tuning**
 
