@@ -14,9 +14,9 @@
 
 <h2 align="center">About Me</h2>
 
-I'm a Data Science student at Flagler College interested in **machine learning, artificial intelligence, predictive modeling, and applied analytics**. My coursework and projects have involved preparing data, building and evaluating models, and presenting results through code and visualizations. As an AI Solutions Intern at Rebillia Platform, I also apply analytical skills to business and product initiatives.
+<p align="center">I'm a Data Science student at Flagler College interested in <strong>machine learning, artificial intelligence, predictive modeling, and applied analytics</strong>. My coursework and projects have involved preparing data, building and evaluating models, and presenting results through code and visualizations. As an AI Solutions Intern at Rebillia Platform, I also apply analytical skills to business and product initiatives.</p>
 
-This repository showcases selected academic projects and technical work.
+<p align="center">This repository showcases selected academic projects and technical work.</p>
 
 <h2 align="center">Technical Skills</h2>
 
@@ -88,14 +88,14 @@ This repository showcases selected academic projects and technical work.
 
 <h3 align="center">AI Solutions Intern | Rebillia Platform</h3>
 
-At Rebillia, I support **AI-assisted workflows, analytical research, and business and product initiatives**. My work includes evaluating lead-generation tools and data quality, researching competitors, and contributing to financial and operational analyses.
+<p align="center">At Rebillia, I support <strong>AI-assisted workflows, analytical research, and business and product initiatives</strong>. My work includes evaluating lead-generation tools and data quality, researching competitors, and contributing to financial and operational analyses.</p>
 
 ---
 
 <h2 align="center">Areas of Interest</h2>
 
-**Machine Learning & AI** · **Predictive Analytics** · **Sports Analytics** · **Healthcare Analytics** · **Applied Data Science**
+<p align="center"><strong>Machine Learning &amp; AI</strong> · <strong>Predictive Analytics</strong> · <strong>Sports Analytics</strong> · <strong>Healthcare Analytics</strong> · <strong>Applied Data Science</strong></p>
 
 ---
 
-*The projects in this repository include individual coursework and collaborative academic work. Contributions to group projects are described where relevant.*
+<p align="center"><em>The projects in this repository include individual coursework and collaborative academic work. Contributions to group projects are described where relevant.</em></p>
