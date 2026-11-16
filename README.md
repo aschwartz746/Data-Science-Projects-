@@ -36,8 +36,7 @@ This repository showcases selected academic projects and technical work.
 
 **Python · Supervised Machine Learning · Classification · Group Project**
 
-For this group project, I handled much of the Python coding, exploratory data analysis, and visualizations while investigating relationships among social media habits, sleep, and mental health across approximately 8,000 observations. I used pandas and scikit-learn to explore the data, develop a Random Forest classification pipeline, tune hyperparameters with GridSearchCV, and evaluate performance using training and validation results and feature importance. Our team compared Random Forest with other classification approaches, including k-nearest neighbors, logistic regression, and gradient boosting, to assess predictive performance and recommend a model.
-
+For this group project, I completed much of the Python programming, exploratory data analysis, and visualizations for a dataset of approximately 8,000 observations examining social media habits, sleep, and mental health. I used pandas and scikit-learn to analyze the data, build and tune a Random Forest classifier with GridSearchCV, and evaluate its predictive performance and feature importance. Our team compared Random Forest with k-nearest neighbors, logistic regression, and gradient boosting, ultimately recommending Random Forest based on the model evaluation.
 
 <p align="center"><a href="CIS_315_Final_Project.ipynb">View Python Notebook</a></p>
 
@@ -47,7 +46,7 @@ For this group project, I handled much of the Python coding, exploratory data an
 
 **Python · Exploratory Data Analysis · Regression · Sports Analytics**
 
-In this individual project, I used Python to explore NBA player statistics, identify patterns in the data, and create visualizations to better understand relationships among basketball performance measures. I prepared and examined the dataset before applying linear regression and decision tree regression to investigate predictive modeling and compare how different methods capture trends in sports data. The project brought together exploratory analysis, visualizations, regression modeling, and interpretation of results in a sports analytics setting.
+In this individual project, I used Python to prepare and analyze NBA player statistics, investigate relationships among performance measures, and produce visualizations of patterns in basketball data. I built linear regression and decision tree regression models to explore predictive relationships and compare modeling approaches. The completed notebook combines data preparation, exploratory analysis, visualizations, and regression outputs to demonstrate how statistical modeling can be applied to sports performance data.
 
 <p align="center"><a href="Data%20Science%20Final%20Project%20%28NBA%20Stats%29.ipynb">View Python Notebook</a></p>
 
@@ -57,7 +56,7 @@ In this individual project, I used Python to explore NBA player statistics, iden
 
 **R · Statistical Analysis · Data Visualization · Collaborative Project**
 
-In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 1,885 respondents to explore relationships between personality traits and reported substance use. The analysis involved organizing and summarizing data, comparing personality scores across substance-use categories, and creating visualizations such as scatterplots, boxplots, and stacked bar charts. The report also includes statistical tests, including a chi-square test and ANOVA, alongside the R code, tables, and output used to interpret the findings.
+In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 1,885 respondents to examine relationships between personality traits and reported substance use. I organized and summarized the data, compared personality scores across substance-use categories, and created scatterplots, boxplots, and stacked bar charts. The completed report presents descriptive statistics, chi-square testing, ANOVA, and their corresponding output alongside the R code and visualizations, providing a consolidated record of the statistical analysis.
 
 <p align="center"><a href="https://aschwartz746.github.io/Data-Science-Projects-/Personality_Traits_and_Substance_Use_Analysis.html">View Complete R Analysis &amp; Results</a></p>
 
@@ -69,8 +68,7 @@ In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 
 
 **Python · Unsupervised Machine Learning · Clustering**
 
-I used Python and k-means clustering to examine customer data and identify groups of customers with similar characteristics. I explored the available features and patterns in the dataset, applied an unsupervised learning algorithm, and interpreted the resulting clusters as potential customer segments. The project strengthened my understanding of how clustering works without predefined labels and how data-driven customer groupings can reveal meaningful differences that may support business analysis and decision-making.
-
+I used Python and k-means clustering to analyze customer data and group observations with similar characteristics. I examined the dataset's features, applied an unsupervised learning algorithm, and interpreted the resulting clusters as potential customer segments without relying on predefined labels. The analysis produced a data-driven segmentation of customers, organizing patterns in their characteristics into groups that can be examined for differences and used to inform business analysis.
 
 <p align="center"><a href="Customer_Segmentation_KMeans.ipynb">View Python Notebook</a></p>
 
@@ -80,8 +78,7 @@ I used Python and k-means clustering to examine customer data and identify group
 
 **Python · scikit-learn · Regularized Regression · Hyperparameter Tuning**
 
-I used Python and scikit-learn to build regression workflows that combine preprocessing and modeling in a consistent pipeline. I worked with feature scaling, Ridge and Lasso regression, and GridSearchCV to explore how regularization and hyperparameter choices affect model performance. By organizing these steps into reusable pipelines, I practiced comparing regression approaches, testing different configurations, and evaluating models systematically. The project strengthened my understanding of regularization, tuning, and repeatable machine learning workflows.
-
+I used Python and scikit-learn to develop regression pipelines that combine feature scaling, preprocessing, and model training in a consistent workflow. I implemented Ridge and Lasso regression and used GridSearchCV to test hyperparameter configurations and compare modeling approaches. The resulting pipelines organize preprocessing and evaluation into repeatable steps, allowing regression models to be assessed under different regularization and tuning settings and their performance to be compared systematically.
 
 <p align="center"><a href="Regression_Pipelines_Model_Tuning.ipynb">View Python Notebook</a></p>
 
