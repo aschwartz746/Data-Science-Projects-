@@ -47,7 +47,7 @@ For this group project, I handled much of the Python coding, exploratory data an
 
 **Python · Exploratory Data Analysis · Regression · Sports Analytics**
 
-In this individual project, I used Python to explore NBA player statistics, identify patterns in the data, and create visualizations to better understand relationships among basketball performance measures. I then applied linear regression and decision tree regression to investigate predictive modeling and compare how different methods capture trends in sports data. The project combined data preparation, exploratory analysis, visualization, and model evaluation around a topic I enjoy.
+In this individual project, I used Python to explore NBA player statistics, identify patterns in the data, and create visualizations to better understand relationships among basketball performance measures. I prepared and examined the dataset before applying linear regression and decision tree regression to investigate predictive modeling and compare how different methods capture trends in sports data. The project brought together exploratory analysis, visualizations, regression modeling, and interpretation of results in a sports analytics setting.
 
 <p align="center"><a href="Data%20Science%20Final%20Project%20%28NBA%20Stats%29.ipynb">View Python Notebook</a></p>
 
@@ -69,7 +69,7 @@ In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 
 
 **Python · Unsupervised Machine Learning · Clustering**
 
-I used Python and k-means clustering to examine customer data and identify groups of customers with similar characteristics. The project involved exploring patterns in the dataset, applying an unsupervised learning algorithm, and interpreting the resulting clusters as potential customer segments. It helped me understand how clustering can uncover structure in data without predefined categories and how those findings can support business analysis.
+I used Python and k-means clustering to examine customer data and identify groups of customers with similar characteristics. I explored the available features and patterns in the dataset, applied an unsupervised learning algorithm, and interpreted the resulting clusters as potential customer segments. The project strengthened my understanding of how clustering works without predefined labels and how data-driven customer groupings can reveal meaningful differences that may support business analysis and decision-making.
 
 
 <p align="center"><a href="Customer_Segmentation_KMeans.ipynb">View Python Notebook</a></p>
@@ -80,7 +80,7 @@ I used Python and k-means clustering to examine customer data and identify group
 
 **Python · scikit-learn · Regularized Regression · Hyperparameter Tuning**
 
-I used Python and scikit-learn to build regression workflows that combine preprocessing and modeling in a consistent pipeline. I worked with feature scaling, Ridge and Lasso regression, and GridSearchCV to explore how regularization and hyperparameter choices affect model performance. The project strengthened my understanding of comparing regression approaches, tuning models systematically, and creating repeatable machine learning workflows.
+I used Python and scikit-learn to build regression workflows that combine preprocessing and modeling in a consistent pipeline. I worked with feature scaling, Ridge and Lasso regression, and GridSearchCV to explore how regularization and hyperparameter choices affect model performance. By organizing these steps into reusable pipelines, I practiced comparing regression approaches, testing different configurations, and evaluating models systematically. The project strengthened my understanding of regularization, tuning, and repeatable machine learning workflows.
 
 
 <p align="center"><a href="Regression_Pipelines_Model_Tuning.ipynb">View Python Notebook</a></p>
