@@ -44,12 +44,11 @@ Analyzed NBA statistics through data exploration, visualization, and predictive 
 ## Personality Traits & Substance Use
 **R · Statistical Analysis · Visualization**
 
-Collaborative statistical analysis of the UCI Drug Consumption dataset (1,885 respondents), examining personality traits and reported substance use. The original report contains R code, descriptive summaries, visualizations, and outputted results.
+Collaborative statistical analysis of the UCI Drug Consumption dataset (1,885 respondents), examining personality traits and reported substance use. The report contains R code, descriptive summaries, visualizations, and statistical results.
 
-**[View Full Analysis & Results (GitHub Pages)](https://aschwartz746.github.io/Data-Science-Projects-/Personality_Traits_and_Substance_Use_Analysis.html)**  
-[View the extracted R source code](analysis.R)
+**[View the complete formatted R analysis and results](https://aschwartz746.github.io/Data-Science-Projects-/Personality_Traits_and_Substance_Use_Analysis.html)**
 
-*The report link opens the formatted analysis directly once GitHub Pages is enabled for this repository. [HTML source on GitHub](Personality_Traits_and_Substance_Use_Analysis.html).*
+The project is presented as a single HTML report containing the R analysis, tables, visualizations, and results. The link opens the rendered report through GitHub Pages.
 
 ## Customer Segmentation
 **Python · Unsupervised Learning · K-Means**
