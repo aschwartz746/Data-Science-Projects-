@@ -39,7 +39,7 @@ This repository showcases selected academic projects and technical work.
 For this group project, I handled much of the Python coding, exploratory data analysis, and visualizations while investigating relationships among social media habits, sleep, and mental health across approximately 8,000 observations. I used pandas and scikit-learn to explore the data, develop a Random Forest classification pipeline, tune hyperparameters with GridSearchCV, and evaluate performance using training and validation results and feature importance. Our team compared Random Forest with other classification approaches, including k-nearest neighbors, logistic regression, and gradient boosting, to assess predictive performance and recommend a model.
 
 
-[**View Python notebook**](CIS_315_Final_Project.ipynb)
+<p align="center"><a href="CIS_315_Final_Project.ipynb">View Python Notebook</a></p>
 
 ---
 
@@ -72,7 +72,7 @@ In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 
 I used Python and k-means clustering to examine customer data and identify groups of customers with similar characteristics. The project involved exploring patterns in the dataset, applying an unsupervised learning algorithm, and interpreting the resulting clusters as potential customer segments. It helped me understand how clustering can uncover structure in data without predefined categories and how those findings can support business analysis.
 
 
-[**View Python notebook**](Customer_Segmentation_KMeans.ipynb)
+<p align="center"><a href="Customer_Segmentation_KMeans.ipynb">View Python Notebook</a></p>
 
 ---
 
@@ -83,7 +83,7 @@ I used Python and k-means clustering to examine customer data and identify group
 I used Python and scikit-learn to build regression workflows that combine preprocessing and modeling in a consistent pipeline. I worked with feature scaling, Ridge and Lasso regression, and GridSearchCV to explore how regularization and hyperparameter choices affect model performance. The project strengthened my understanding of comparing regression approaches, tuning models systematically, and creating repeatable machine learning workflows.
 
 
-[**View Python notebook**](Regression_Pipelines_Model_Tuning.ipynb)
+<p align="center"><a href="Regression_Pipelines_Model_Tuning.ipynb">View Python Notebook</a></p>
 
 ---
 
