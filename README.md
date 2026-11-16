@@ -36,7 +36,7 @@ This repository showcases selected academic projects and technical work.
 
 **Python · Supervised Machine Learning · Classification · Group Project**
 
-For this group project, I handled **much of the Python coding, exploratory data analysis, and visualizations** while investigating relationships among social media habits, sleep, and mental health across approximately 8,000 observations. I used **pandas and scikit-learn** to explore the data, develop a **Random Forest classification pipeline**, tune hyperparameters with **GridSearchCV**, and evaluate performance using training and validation results and feature importance. Our team compared Random Forest with other classification approaches, including **k-nearest neighbors, logistic regression, and gradient boosting**, to assess predictive performance and recommend a model.
+For this group project, I handled much of the Python coding, exploratory data analysis, and visualizations while investigating relationships among social media habits, sleep, and mental health across approximately 8,000 observations. I used pandas and scikit-learn to explore the data, develop a Random Forest classification pipeline, tune hyperparameters with GridSearchCV, and evaluate performance using training and validation results and feature importance. Our team compared Random Forest with other classification approaches, including k-nearest neighbors, logistic regression, and gradient boosting, to assess predictive performance and recommend a model.
 
 
 [**View Python notebook**](CIS_315_Final_Project.ipynb)
