@@ -12,13 +12,13 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I'm a Data Science student at Flagler College interested in **machine learning, artificial intelligence, predictive modeling, and applied analytics**. My coursework and projects have involved preparing data, building and evaluating models, and presenting results through code and visualizations. As an AI Solutions Intern at Rebillia Platform, I also apply analytical skills to business and product initiatives.
 
 This repository showcases selected academic projects and technical work.
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
 
 | Area | Skills and Tools |
 | --- | --- |
@@ -84,15 +84,15 @@ This repository showcases selected academic projects and technical work.
 
 ---
 
-## Professional Experience
+<h2 align="center">Professional Experience</h2>
 
-### AI Solutions Intern | Rebillia Platform
+<h3 align="center">AI Solutions Intern | Rebillia Platform</h3>
 
 At Rebillia, I support **AI-assisted workflows, analytical research, and business and product initiatives**. My work includes evaluating lead-generation tools and data quality, researching competitors, and contributing to financial and operational analyses.
 
 ---
 
-## Areas of Interest
+<h2 align="center">Areas of Interest</h2>
 
 **Machine Learning & AI** · **Predictive Analytics** · **Sports Analytics** · **Healthcare Analytics** · **Applied Data Science**
 
