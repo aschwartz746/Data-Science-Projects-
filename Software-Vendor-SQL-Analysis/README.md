@@ -1,6 +1,6 @@
 # Software & Vendor Database — SQL Query Analysis
 
-SQL · Microsoft Access · Relational Databases · CIS 311
+**SQL · Microsoft Access · Relational Databases · CIS 311**
 
 For this database assignment, I wrote SQL queries to work with information about software products, their categories, and the vendors selling them. I used subqueries to find categories and vendors without matching records, compared software prices to the overall average, and identified the highest-priced offering. I also joined multiple tables to bring together software, vendor, and category details. This project helped me practice using SQL to answer specific questions from a relational database.
 
