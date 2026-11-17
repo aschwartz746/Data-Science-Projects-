@@ -1,8 +1,8 @@
 # Happy Tails — Pet Companion
 
-**C# · Windows Forms · Object-Oriented Programming · SQL Server**
+C# · Windows Forms · Object-Oriented Programming · SQL Server
 
-A virtual-pet desktop application developed for **CIS 305: Application Programming II** at Flagler College.
+A virtual-pet desktop application developed for CIS 305: Application Programming II at Flagler College.
 
 ## Project overview
 
@@ -38,15 +38,15 @@ Browse recorded mood entries in a table with pet names, moods, and associated im
 
 ## Main features
 
-- **Pet selection and customization:** Choose a pet and personalize its details.
-- **Interactive dashboard:** Feed, play with, or cuddle the selected pet.
-- **Mood check-in:** Record the pet's mood through a dedicated form.
-- **Mood history:** View stored records through a database-connected interface.
-- **Object-oriented structure:** Share behavior across pet types through a common base class and animal-specific classes.
+- Pet selection and customization: Choose a pet and personalize its details.
+- Interactive dashboard: Feed, play with, or cuddle the selected pet.
+- Mood check-in: Record the pet's mood through a dedicated form.
+- Mood history: View stored records through a database-connected interface.
+- Object-oriented structure: Share behavior across pet types through a common base class and animal-specific classes.
 
 ## Browse the application code
 
-**Start here:** [Open the Visual Studio solution](../Pet%20Companion.sln) or explore the key files below.
+Start here: [Open the Visual Studio solution](../Pet%20Companion.sln) or explore the key files below.
 
 | File | What it contains |
 | --- | --- |
@@ -74,4 +74,4 @@ The project has not been independently compiled or executed here. Because this i
 
 ---
 
-[**Back to the full Data Science portfolio**](../)
+[Back to the full Data Science portfolio](../)
