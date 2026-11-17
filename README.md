@@ -84,7 +84,7 @@ I used Python and scikit-learn to develop regression pipelines that combine feat
 
 **SQL · Microsoft Access · Relational Databases**
 
-This CIS 311 database assignment uses related software, vendor, and category tables to explore software pricing and vendor information. Its saved queries involve filtering, aggregation, and nested SQL statements. The project is being organized so reviewers can read the original SQL directly on GitHub, alongside the Access database and documentation. Database and SQL exports are pending upload.
+For this CIS 311 assignment, I wrote SQL queries to analyze a database of software products, vendors, categories, and prices. I used joins to combine information from multiple tables, subqueries to find categories and vendors without matching records, and aggregate functions to compare prices. I also filtered software names and identified the most expensive listing. The project helped me get more comfortable working with relational databases and using SQL to answer specific questions. All five queries are included in the project folder.
 
 [View Software & Vendor SQL Project](Software-Vendor-SQL-Analysis/)
 
