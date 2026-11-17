@@ -2,15 +2,15 @@
 
 ### Data Science | Machine Learning | Statistical Analysis
 
-**B.S. in Data Science** · Minors in Mathematics and Computer Information Systems  
-**Flagler College** · Expected Graduation: Spring 2027  
-**AI Solutions Intern** · Rebillia Platform
+B.S. in Data Science · Minors in Mathematics and Computer Information Systems  
+Flagler College · Expected Graduation: Spring 2027  
+AI Solutions Intern · Rebillia Platform
 
 ---
 
 ## About Me
 
-I'm a Data Science student at Flagler College interested in **machine learning, artificial intelligence, predictive modeling, and applied analytics**. My coursework and projects have involved preparing data, building and evaluating models, and presenting results through code and visualizations. As an AI Solutions Intern at Rebillia Platform, I also apply analytical skills to business and product initiatives.
+I'm a Data Science student at Flagler College interested in machine learning, artificial intelligence, predictive modeling, and applied analytics. My coursework and projects have involved preparing data, building and evaluating models, and presenting results through code and visualizations. As an AI Solutions Intern at Rebillia Platform, I also apply analytical skills to business and product initiatives.
 
 This repository showcases selected academic projects and technical work.
 
@@ -30,7 +30,7 @@ This repository showcases selected academic projects and technical work.
 
 ## Social Media, Sleep & Mental Health
 
-**Python · Supervised Machine Learning · Classification · Group Project**
+Python · Supervised Machine Learning · Classification · Group Project
 
 For this group project, I completed much of the Python programming, exploratory data analysis, and visualizations for a dataset of approximately 8,000 observations examining social media habits, sleep, and mental health. I used pandas and scikit-learn to analyze the data, build and tune a Random Forest classifier with GridSearchCV, and evaluate its predictive performance and feature importance. Our team compared Random Forest with k-nearest neighbors, logistic regression, and gradient boosting, ultimately recommending Random Forest based on the model evaluation.
 
@@ -40,7 +40,7 @@ For this group project, I completed much of the Python programming, exploratory 
 
 ## NBA Statistics Analysis
 
-**Python · Exploratory Data Analysis · Regression · Sports Analytics**
+Python · Exploratory Data Analysis · Regression · Sports Analytics
 
 In this individual project, I used Python to prepare and analyze NBA player statistics, investigate relationships among performance measures, and produce visualizations of patterns in basketball data. I built linear regression and decision tree regression models to explore predictive relationships and compare modeling approaches. The completed notebook combines data preparation, exploratory analysis, visualizations, and regression outputs to demonstrate how statistical modeling can be applied to sports performance data.
 
@@ -50,7 +50,7 @@ In this individual project, I used Python to prepare and analyze NBA player stat
 
 ## Personality Traits & Substance Use
 
-**R · Statistical Analysis · Data Visualization · Collaborative Project**
+R · Statistical Analysis · Data Visualization · Collaborative Project
 
 In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 1,885 respondents to examine relationships between personality traits and reported substance use. I organized and summarized the data, compared personality scores across substance-use categories, and created scatterplots, boxplots, and stacked bar charts. The completed report presents descriptive statistics, chi-square testing, ANOVA, and their corresponding output alongside the R code and visualizations, providing a consolidated record of the statistical analysis.
 
@@ -62,7 +62,7 @@ In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 
 
 ## Customer Segmentation with K-Means
 
-**Python · Unsupervised Machine Learning · Clustering**
+Python · Unsupervised Machine Learning · Clustering
 
 I used Python and k-means clustering to analyze customer data and group observations with similar characteristics. I examined the dataset's features, applied an unsupervised learning algorithm, and interpreted the resulting clusters as potential customer segments without relying on predefined labels. The analysis produced a data-driven segmentation of customers, organizing patterns in their characteristics into groups that can be examined for differences and used to inform business analysis.
 
@@ -72,7 +72,7 @@ I used Python and k-means clustering to analyze customer data and group observat
 
 ## Regression Pipelines & Model Tuning
 
-**Python · scikit-learn · Regularized Regression · Hyperparameter Tuning**
+Python · scikit-learn · Regularized Regression · Hyperparameter Tuning
 
 I used Python and scikit-learn to develop regression pipelines that combine feature scaling, preprocessing, and model training in a consistent workflow. I implemented Ridge and Lasso regression and used GridSearchCV to test hyperparameter configurations and compare modeling approaches. The resulting pipelines organize preprocessing and evaluation into repeatable steps, allowing regression models to be assessed under different regularization and tuning settings and their performance to be compared systematically.
 
@@ -82,7 +82,7 @@ I used Python and scikit-learn to develop regression pipelines that combine feat
 
 ## Software & Vendor Database — SQL Query Analysis
 
-**SQL · Microsoft Access · Relational Databases**
+SQL · Microsoft Access · Relational Databases
 
 For this CIS 311 assignment, I wrote SQL queries to analyze a database of software products, vendors, categories, and prices. I used joins to combine information from multiple tables, subqueries to find categories and vendors without matching records, and aggregate functions to compare prices. I also filtered software names and identified the most expensive listing. The project helped me get more comfortable working with relational databases and using SQL to answer specific questions. All five queries are included in the project folder.
 
@@ -92,7 +92,7 @@ For this CIS 311 assignment, I wrote SQL queries to analyze a database of softwa
 
 ## Happy Tails — Pet Companion
 
-**C# · Windows Forms · Object-Oriented Programming · SQL Server**
+C# · Windows Forms · Object-Oriented Programming · SQL Server
 
 I developed Happy Tails, a C# Windows Forms virtual-pet application that lets users select and customize a dog, cat, pig, or hedgehog and interact with their pet through feeding, playing, and cuddling. I built the interface and interaction logic using event handlers and object-oriented classes, including a shared Pet base class and animal-specific subclasses. The application also includes mood check-ins and a SQL Server-backed mood-history view, combining user interface design, input validation, and database integration.
 
@@ -104,7 +104,7 @@ I developed Happy Tails, a C# Windows Forms virtual-pet application that lets us
 
 ### AI Solutions Intern | Rebillia Platform
 
-At Rebillia, I support **AI-assisted workflows, analytical research, and business and product initiatives**. My work includes evaluating lead-generation tools and data quality, researching competitors, and contributing to financial and operational analyses.
+At Rebillia, I support AI-assisted workflows, analytical research, and business and product initiatives. My work includes evaluating lead-generation tools and data quality, researching competitors, and contributing to financial and operational analyses.
 
 ---
 
