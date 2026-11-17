@@ -80,13 +80,13 @@ I used Python and scikit-learn to develop regression pipelines that combine feat
 
 ---
 
-## EC_SQL — Microsoft Access Database Project
+## Software & Vendor Database — SQL Query Analysis
 
-**Microsoft Access · Relational Databases · SQL**
+**SQL · Microsoft Access · Relational Databases**
 
-A Microsoft Access database project provided as an `.accdb` file, representing database-focused coursework and complementing my programming, statistical analysis, and machine learning projects. The project page provides file information and instructions for reviewing the database in Microsoft Access. The original database file is pending upload to GitHub.
+This CIS 311 database assignment uses related software, vendor, and category tables to explore software pricing and vendor information. Its saved queries involve filtering, aggregation, and nested SQL statements. The project is being organized so reviewers can read the original SQL directly on GitHub, alongside the Access database and documentation. Database and SQL exports are pending upload.
 
-[View EC_SQL Project](EC_SQL/)
+[View Software & Vendor SQL Project](Software-Vendor-SQL-Analysis/)
 
 ---
 
