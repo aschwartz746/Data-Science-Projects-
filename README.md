@@ -80,6 +80,16 @@ I used Python and scikit-learn to develop regression pipelines that combine feat
 
 ---
 
+## EC_SQL — Microsoft Access Database Project
+
+**Microsoft Access · Relational Databases · SQL**
+
+A Microsoft Access database project provided as an `.accdb` file, representing database-focused coursework and complementing my programming, statistical analysis, and machine learning projects. The project page provides file information and instructions for reviewing the database in Microsoft Access. The original database file is pending upload to GitHub.
+
+[View EC_SQL Project](EC_SQL/)
+
+---
+
 ## Happy Tails — Pet Companion
 
 **C# · Windows Forms · Object-Oriented Programming · SQL Server**
