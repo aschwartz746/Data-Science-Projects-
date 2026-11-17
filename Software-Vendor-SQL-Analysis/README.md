@@ -1,39 +1,86 @@
 # Software & Vendor Database — SQL Query Analysis
 
-**Microsoft Access · SQL · Relational Databases**
+**SQL · Microsoft Access · Relational Databases · CIS 311**
 
-## Project overview
+For this database assignment, I wrote SQL queries to work with information about software products, their categories, and the vendors selling them. I used subqueries to find categories and vendors without matching records, compared software prices to the overall average, and identified the highest-priced offering. I also joined multiple tables to bring together software, vendor, and category details. This project helped me practice using SQL to answer specific questions from a relational database.
 
-This CIS 311 database assignment uses a software-and-vendor database in Microsoft Access. The database includes entities for software, vendors, categories, and software–vendor associations. The goal of this portfolio entry is to show the SQL queries used to retrieve and analyze records, rather than only provide an Access database download.
+## Database structure
 
-## Database and SQL files
+| Table | Records | What it contains |
+| --- | ---: | --- |
+| `Category` | 5 | Software categories |
+| `Software` | 13 | Software products and their categories |
+| `Vendor` | 6 | Software vendors |
+| `Software_Vendor` | 18 | Vendor–software listings and prices |
 
-The original Microsoft Access database (`Homework 10-1.accdb`) and exported SQL queries are **pending upload**. This page will be updated with direct links to the files once they are available.
+## SQL queries
 
-**Planned file structure:**
+These are the five SQL statements recovered from the saved query definitions in my Microsoft Access coursework database.
 
-```text
-Software-Vendor-SQL-Analysis/
-├── README.md
-├── Homework 10-1.accdb
-└── queries/
-    ├── query-01.sql
-    └── ...
+### 1. Find categories without software
+
+Uses a `NOT IN` subquery to find categories that have no software assigned to them.
+
+```sql
+SELECT CategoryID, CategoryName
+FROM Category
+WHERE CategoryID NOT IN (SELECT CategoryID FROM Software);
 ```
 
-## Query topics
+### 2. Find vendors that do not sell any software
 
-The database contains saved queries involving software pricing, vendor information, filtering, aggregation, and subqueries. Specific query names, SQL statements, and outputs will be documented here after they have been exported and verified.
+Checks the vendor table against the software–vendor table to find vendors with no listings.
 
-## Viewing the work
+```sql
+SELECT VendorID, VendorName
+FROM Vendor
+WHERE VendorID NOT IN (SELECT VendorID 
+                                          FROM Software_Vendor);
+```
 
-- **SQL files:** GitHub displays `.sql` files as readable, syntax-highlighted code without requiring Microsoft Access.
-- **Access database:** Download the `.accdb` file and open it with Microsoft Access on a compatible Windows computer.
-- **Query results:** Any documented results should be checked against the original database.
+### 3. Find software listings priced below the average
 
-## Project context
+Combines three tables, calculates the average listing price with a subquery, and sorts matching results from highest to lowest price.
 
-This is an academic SQL assignment. The README will distinguish supplied database structures from queries completed as part of the assignment once those details are confirmed.
+```sql
+SELECT Software.SoftwareID, SoftwareName, Vendor.VendorID, VendorName, Price
+FROM Software_Vendor, Software, Vendor
+WHERE Software_Vendor.SoftwareID = Software.SoftwareID AND Software_Vendor.VendorID =Vendor.VendorID 
+AND Price < (SELECT AVG(Price) FROM Software_Vendor)
+ORDER BY Price DESC;
+```
+
+### 4. Find the most expensive software listing
+
+Combines four tables to show the software, its category, the vendor, and the highest price in the database.
+
+```sql
+SELECT Software.SoftwareID, SoftwareName, Category.CategoryID, CategoryName, Vendor.VendorID, VendorName, Price
+FROM Software, Software_Vendor, Vendor, Category
+WHERE Software.SoftwareID = Software_Vendor.SoftwareID
+AND Software_Vendor.VendorID = Vendor.VendorID
+AND Software.CategoryID = Category.CategoryID
+AND Price = (SELECT MAX(Price) FROM Software_Vendor);
+```
+
+### 5. Find listings for software names containing "wri"
+
+Uses `LIKE` and an `IN` subquery to identify vendor listings for matching software names.
+
+```sql
+SELECT SoftwareID, VendorID, Price
+FROM Software_Vendor
+WHERE SoftwareID IN (
+SELECT SoftwareID
+FROM Software
+WHERE SoftwareName LIKE '%wri%');
+```
+
+## About the SQL
+
+The queries were recovered from saved definitions in the original `Homework 10-1.accdb` Microsoft Access database. The extraction document reports that they were run against the original data. The SQL is displayed here so it can be reviewed directly on GitHub without Microsoft Access.
+
+*Note: The `%` wildcard in Query 5 is used in ANSI-92 SQL mode; default Access ANSI-89 mode uses `*`.*
 
 ---
 
