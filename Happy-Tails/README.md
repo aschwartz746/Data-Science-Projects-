@@ -8,6 +8,34 @@ A virtual-pet desktop application developed for **CIS 305: Application Programmi
 
 Happy Tails allows users to select and customize a dog, cat, pig, or hedgehog and interact with their virtual pet by feeding, playing, and cuddling. The application includes mood check-ins and a mood-history screen backed by a SQL Server database. The interface was developed with Windows Forms, while the pet types use object-oriented C# classes and inheritance.
 
+## Application screenshots
+
+These four screenshots show the main stages of the Happy Tails desktop application.
+
+### 1. Select and customize a pet
+
+Choose an animal, enter a name, and select a favorite toy.
+
+![Happy Tails pet selection and customization screen](../FromPageVisualization.png)
+
+### 2. Interact with your pet
+
+Use the dashboard to cuddle, play with, or feed your pet, and navigate to mood tracking.
+
+![Happy Tails pet interaction dashboard](../InteractiveFormVisualizaiton.png)
+
+### 3. Record a mood check-in
+
+Select a mood and use the form to log how the pet is feeling.
+
+![Happy Tails mood check-in form](../MoodCheckInFormVisualization.png)
+
+### 4. View mood history
+
+Browse recorded mood entries in a table with pet names, moods, and associated images.
+
+![Happy Tails mood history table](../FinalDisplayVisualization.png)
+
 ## Main features
 
 - **Pet selection and customization:** Choose a pet and personalize its details.
