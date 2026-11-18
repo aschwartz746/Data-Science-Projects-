@@ -114,4 +114,3 @@ Machine Learning & AI · Predictive Analytics · Sports Analytics · Healthcare 
 
 ---
 
-*The projects in this repository include individual coursework and collaborative academic work. Contributions to group projects are described where relevant.*
