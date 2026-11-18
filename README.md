@@ -56,7 +56,6 @@ In this collaborative R project, I analyzed the UCI Drug Consumption dataset of 
 
 [View Complete R Analysis & Results](https://aschwartz746.github.io/Data-Science-Projects-/Personality_Traits_and_Substance_Use_Analysis.html)
 
-*This project is presented as one HTML report containing the R code, analysis, charts, and results. The formatted report is viewed through GitHub Pages.*
 
 ---
 
